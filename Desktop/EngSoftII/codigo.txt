@@ -1,0 +1,6 @@
+String Nome;
+Int CPF;
+Int idade;
+
+Void AddAgenda{
+}
